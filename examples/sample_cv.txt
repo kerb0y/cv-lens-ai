@@ -1,0 +1,18 @@
+Ade Bintang
+Mahasiswa Informatika dengan fokus pada AI Engineering dan Data Science.
+
+Pengalaman:
+Membangun SkillMap, platform AI untuk analisis CV dan rekomendasi karier,
+sebagai capstone Coding Camp 2026. Bertanggung jawab pada preprocessing
+dataset, model deep learning dengan TensorFlow dan Keras, inference
+pipeline, dan pengembangan API dengan FastAPI. Mengintegrasikan output
+model AI ke frontend sehingga pengguna menerima rekomendasi learning path
+yang relevan berdasarkan skill gap mereka.
+
+Skills:
+Python, SQL, Machine Learning, Deep Learning, TensorFlow, Keras, Pandas,
+NumPy, FastAPI, Git, GitHub, Data Analysis, Data Visualization, REST API,
+Communication, Teamwork, Project Management.
+
+Pendidikan:
+Informatika, Universitas Gunadarma.

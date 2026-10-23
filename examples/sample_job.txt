@@ -1,0 +1,13 @@
+Lowongan: Junior AI Engineer
+
+Kami mencari Junior AI Engineer untuk mengembangkan layanan analisis
+dokumen berbasis machine learning. Kandidat akan membangun REST API
+dengan Python dan FastAPI, melakukan preprocessing data, serta melatih
+dan mengevaluasi model deep learning.
+
+Persyaratan:
+Menguasai Python, SQL, Pandas, dan NumPy. Berpengalaman dengan TensorFlow
+atau PyTorch, scikit-learn, dan konsep machine learning. Memahami REST API,
+Git, GitHub, dan Docker. Nilai tambah untuk pengalaman NLP, data
+visualization, dan deployment dengan Linux. Dibutuhkan communication dan
+teamwork yang baik dalam tim lintas fungsi.
